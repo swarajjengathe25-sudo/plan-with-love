@@ -1,8 +1,16 @@
 # Plan With Love ❤️
 
-A simple travel destination website built using React.js.
+A travel destination website built using React.js.
 
-Users can explore different destinations, view details, and browse travel options through an interactive and responsive interface.
+Users can explore different travel destinations, read details about places, and remove destinations they are not interested in. If all destinations are removed, the list can be refreshed again.
+
+## Features
+
+* Browse travel destinations
+* View destination details
+* Read More / Show Less functionality
+* Remove unwanted destinations
+* Refresh all destinations
 
 ## Technologies Used
 
@@ -10,7 +18,12 @@ Users can explore different destinations, view details, and browse travel option
 * JavaScript
 * CSS
 
+## Live Demo
+
+https://plan-with-love-sigma.vercel.app/
+
 ## Author
 
 Swaraj Jengathe
+
 
